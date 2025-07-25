@@ -9,14 +9,14 @@ It showcases my:
 - 📬 Contact section
 - 🌙 Dark theme aesthetic with particles animation
 
-## 🚀 Live Demo
+# 🚀 Live Demo
 
 You can view the live site here:  
 ➡️[ https://shahidfaizaan.github.io/Portfolio/ ]
 ---
 
 
-✍️ Customization
+#✍️ Customization
 -You can edit the following files to make it your own:
 -index.html – Update your name, bio, links, and sections
 -style.css – Modify colors, spacing, layout
@@ -24,19 +24,19 @@ You can view the live site here:
 -images/ – Replace with your own profile or project screenshots
 -Resume.pdf – Replace with your latest resume
 
-🧩 Deployment
+#🧩 Deployment
 -You can deploy this site via:
 -GitHub Pages
 -Netlify
 -Vercel
 -Or serve it locally with VS Code’s Live Server
 
-🧑‍💼 Contact
+#🧑‍💼 Contact
 -If you'd like to connect or collaborate:
 -📧 Email: shahidfaizaan86@gmail.com
 -📄 Resume
 
-🙏 Acknowledgements
+#🙏 Acknowledgements
 -Fonts: Google Fonts
 -Icons: Font Awesome
 -Inspiration from other great portfolios
